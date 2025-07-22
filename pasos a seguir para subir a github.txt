@@ -6,7 +6,7 @@
 
 4.- git remote add origin url-del-repositorio
 
-5.- git push -u origin main (sincroniza los archivos con nuestra cuenta de GitHub
+5.- git push -u origin master (sincroniza los archivos con nuestra cuenta de GitHub
 
 
 (para actualizar repetir pasos 2,3,5)
