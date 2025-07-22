@@ -1,3 +1,5 @@
+git config --global user.name/email (para vincular nuestros datos a gitbash)
+
 1.- git init (inicia una carpeta local)
 
 2.- git add . ("cual es el punto de guardado" / prepara archivos en el repositorio local)
