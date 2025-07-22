@@ -1,0 +1,12 @@
+1.- git init (inicia una carpeta local)
+
+2.- git add . ("cual es el punto de guardado" / prepara archivos en el repositorio local)
+
+3.- git commit -m "agregando archivo principal" (mensaje sobre lo que se esa haciendo / Aqui realmente esta guardando)
+
+4.- git remote add origin url-del-repositorio
+
+5.- git push -u origin main (sincroniza los archivos con nuestra cuenta de GitHub
+
+
+(para actualizar repetir pasos 2,3,5)
